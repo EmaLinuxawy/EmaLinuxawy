@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ibrahim Soliman, Iam 🇪🇬, Living in 🇲🇽
+- Working as a Staff Site Reliability Engineer @Wizeline
+- 👀 I’m an SRE/Cloud Geek with +10 years of experience in the web industry, specialized in infrastructure and automated solutions and runs applications at SCALE.
+- 📫 You can reach out to me through [LinkedIN](https://www.linkedin.com/in/emalinuxawy/)
