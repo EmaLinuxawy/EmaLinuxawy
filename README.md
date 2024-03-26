@@ -1,9 +1,5 @@
 <h1 align="center"><b>Hi, I'm Ibrahim Soliman</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emalinuxawy/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
 ## 🧑‍💻 About Me
 
 - 🌍 I'm based in Mexico, originally from Egypt 🇪🇬🇲🇽
